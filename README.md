@@ -41,6 +41,7 @@ The application isolates core authentication structures behind modular layers. A
 
 ```text
 [ React UI ] ──( Axios Request )──> [ Custom Middleware ] ──> [ Self-Made API Controllers ] ──> [ MongoDB ]
+---
 
 ## Screenshots
 <img width="1917" height="1008" alt="Screenshot 2026-07-08 171212" src="https://github.com/user-attachments/assets/f23a8328-f984-4730-818b-74bc6225f696" />

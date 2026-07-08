@@ -38,12 +38,9 @@ A secure, production-ready full-stack Authentication System featuring dynamic us
 ## 🏗️ Architecture & API Flow
 
 The application isolates core authentication structures behind modular layers. Axios requests from the frontend pass through custom Express middlewares before reaching the database controllers.
-
 ```text
 [ React UI ] ──( Axios Request )──> [ Custom Middleware ] ──> [ Self-Made API Controllers ] ──> [ MongoDB ]
----
-
-## Screenshots
+```
 <img width="1917" height="1008" alt="Screenshot 2026-07-08 171212" src="https://github.com/user-attachments/assets/f23a8328-f984-4730-818b-74bc6225f696" />
 
 <img width="1919" height="1021" alt="Screenshot 2026-07-08 171251" src="https://github.com/user-attachments/assets/242d1ba5-5631-4c9b-bd78-29a4f02a745c" />

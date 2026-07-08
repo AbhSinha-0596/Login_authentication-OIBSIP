@@ -41,3 +41,27 @@ The application isolates core authentication structures behind modular layers. A
 
 ```text
 [ React UI ] ──( Axios Request )──> [ Custom Middleware ] ──> [ Self-Made API Controllers ] ──> [ MongoDB ]
+
+## Screenshots
+<img width="1917" height="1008" alt="Screenshot 2026-07-08 171212" src="https://github.com/user-attachments/assets/f23a8328-f984-4730-818b-74bc6225f696" />
+
+<img width="1919" height="1021" alt="Screenshot 2026-07-08 171251" src="https://github.com/user-attachments/assets/242d1ba5-5631-4c9b-bd78-29a4f02a745c" />
+
+<img width="1919" height="1018" alt="Screenshot 2026-07-08 171314" src="https://github.com/user-attachments/assets/09212dff-5c7a-4e12-8514-2b9cba7b7cbd" />
+
+<img width="1919" height="1021" alt="Screenshot 2026-07-08 171332" src="https://github.com/user-attachments/assets/f5c5558c-bfad-40ea-9ef2-7f203c328947" />
+
+<img width="1919" height="1024" alt="Screenshot 2026-07-08 171401" src="https://github.com/user-attachments/assets/a581941f-aacd-4db1-963b-3c4937daf4fe" />
+
+<img width="1919" height="1021" alt="Screenshot 2026-07-08 171444" src="https://github.com/user-attachments/assets/6f81efc8-a1dc-4f24-9620-0465978abe5d" />
+
+<img width="1919" height="1024" alt="Screenshot 2026-07-08 171455" src="https://github.com/user-attachments/assets/4d21962e-238b-4371-8d25-e006ad71e7b5" />
+
+
+<img width="1919" height="1018" alt="Screenshot 2026-07-08 171522" src="https://github.com/user-attachments/assets/ed27387d-7bfa-4725-b0ad-0ab56788edf2" />
+
+
+<img width="1919" height="1020" alt="Screenshot 2026-07-08 171537" src="https://github.com/user-attachments/assets/ed0abcf8-03d7-4ac9-be14-7c2cb968e67d" />
+
+
+---
